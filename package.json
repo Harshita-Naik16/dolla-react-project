@@ -1,7 +1,7 @@
 {
   "homepage": "https://Harshita-Naik16.github.io/dolla-react-project",
   "name": "dolla-react-project",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {

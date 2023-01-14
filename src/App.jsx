@@ -7,9 +7,9 @@ import SigninPage from './Pages/signin';
 function App() {
 
   return (
-    <BrowserRouter>
+    <BrowserRouter Basename="/dolla-react-project">
       <Routes>
-        <Route index path="/" element={<Home />} />
+        <Route exact index path="/dolla-react-project" element={<Home />} />
         <Route path="signin" element={<SigninPage />} />
       </Routes>
     </BrowserRouter>
