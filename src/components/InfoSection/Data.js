@@ -1,7 +1,5 @@
 
-import '../../../images/svg-1.svg';
-import '../../../images/svg-2.svg';
-import '../../../images/svg-3.svg';
+
 
 export const homeObjOne = {
     id: 'about',
@@ -14,7 +12,7 @@ export const homeObjOne = {
     description: 'Get access to our exclusive app that allows you to send unlimited transactions without getting charged any fees.',
     buttonLabel: 'Get Started',
     imgStart: false,
-    img: '../../../images/svg-1.svg',
+    img:'../../../images/svg-1.svg',
     alt: 'car',
     dark: true,
     primary: true,

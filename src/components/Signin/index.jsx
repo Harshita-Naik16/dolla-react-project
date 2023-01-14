@@ -5,7 +5,7 @@ export default function Signin() {
   return (
     <>
       <Container>
-        <Icon to='/' >dolla</Icon>
+        <Icon to='/dolla-react-project' >dolla</Icon>
         <FormContainer>
           <Form action="#">
             <FormH1>Sign in to your account</FormH1>
