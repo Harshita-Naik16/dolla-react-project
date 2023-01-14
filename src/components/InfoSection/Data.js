@@ -1,4 +1,7 @@
 
+import '../../../images/svg-1.svg';
+import '../../../images/svg-2.svg';
+import '../../../images/svg-3.svg';
 
 export const homeObjOne = {
     id: 'about',
