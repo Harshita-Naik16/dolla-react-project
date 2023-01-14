@@ -1,5 +1,8 @@
 import React from 'react'
 import { Button } from '../ButtonElement'
+import '../../../images/svg-1.svg';
+import '../../../images/svg-2.svg';
+import '../../../images/svg-3.svg';
 import { BtnWrap, Column1, Column2, Heading, Img, ImgWrap, InfoContainer, InfoRow, InfoWrapper, Subtitle, TextWrapper, TopLine } from './InfoElements';
 
 export default function InfoSection({ lightBg, id, imgStart, topLine, lightText, headline, darkText,description,buttonLabel, img, alt, primary, dark, dark2 }) {
